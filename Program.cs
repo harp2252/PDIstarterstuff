@@ -24,6 +24,9 @@ namespace Temps
                 Console.Write("Its Hot.\n");
             else
                 Console.Write("Its very hot.\n");
+            
+            
+            Console.Writeline("This is a basic Console Writeline command, Howdy dorks!");
 
         }
     }
